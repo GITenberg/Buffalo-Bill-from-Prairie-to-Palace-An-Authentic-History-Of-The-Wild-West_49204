@@ -1,10 +1,16 @@
 _repo: Buffalo-Bill-from-Prairie-to-Palace-An-Authentic-History-Of-The-Wild-West_49204
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49204-h/images/i_backcover.jpg
 creator:
   author:
     agent_name: Burke, John M.
     gutenberg_agent_id: '45192'
     url: http://www.gutenberg.org/2009/agents/45192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49204#Buffalo-Bill-from-Prairie-to-Palace-An-Authentic-History-Of-The-Wild-West
 gutenberg_issued: '2015-06-13'
 gutenberg_type: Text
 identifiers:
